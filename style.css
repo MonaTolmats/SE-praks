@@ -1,0 +1,19 @@
+h1 {
+    font-family: ORBIT;
+    font-size: 70px;
+    font-style: italic;
+    color: rgb(3, 8, 55);
+}
+
+p {
+    font-family: 'Trebuchet MS';
+    text-align: center;
+    color: rgb(34, 71, 71);
+    font-size: 25px;
+}
+
+img {
+    width: 200px;
+    height: 100%;
+    box-shadow: 10px 10px 10px #ccc
+}
