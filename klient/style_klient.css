@@ -1,6 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
 h1 {
-    font-family: ORBIT;
+    font-family: 'Dancing Script', cursive;
     font-size: 100px;
-    font-style: italic;
-    color: rgb(3, 8, 55);
+    color: black;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    color: black;
+}
+
+a {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    color: black;
+    display: inline;
+    margin-right: 60px;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1558346648-9757f2fa4474?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+    background-attachment: fixed;
+    background-size: cover
+}
+
+.image1 {
+    width: 1000px;
+    height: 100%;
+    box-shadow: 10px 10px 10px #ccc
+}
+
+.image2 {
+    width: 35px;
+    height: 100%;
+    box-shadow: 10px 10px 10px #ccc
 }
